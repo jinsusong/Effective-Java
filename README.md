@@ -13,8 +13,8 @@
 
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
-| 송진수 | [@Song, Jinsu](https://github.com/jinsusong) |
 | 김수진 | |
+| 송진수 | [@Song, Jinsu](https://github.com/jinsusong) |
 | 홍석민 | |
 | 유연준 | |
 
