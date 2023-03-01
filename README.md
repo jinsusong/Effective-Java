@@ -14,7 +14,7 @@
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 김수진 | |
-| 송진수 | [@Song, Jinsu](https://github.com/jinsusong) |
+| 송진수 | [@Song Jinsu](https://github.com/jinsusong) |
 | 홍석민 | ghdtjrals3@gmail.com|
 | 유연준 | |
 
